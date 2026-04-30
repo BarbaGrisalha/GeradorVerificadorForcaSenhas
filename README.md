@@ -48,3 +48,9 @@ python3 -m unittest -v teste_geraveripass.py
 - A estimativa de quebra é simplificada (força bruta pura).
 - Não usa dicionários reais nem ataques híbridos.
 - Use como ferramenta educacional.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+
+Você pode usar, copiar, modificar e distribuir este projeto livremente, desde que mantenha o aviso de copyright e a licença original.
